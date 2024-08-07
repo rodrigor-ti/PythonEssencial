@@ -1,5 +1,5 @@
 
-# 🎯💻Trilha para Programação Python na Fundação Bradescos🎯💻
+# 🎯💻 Programação Python na Fundação Bradesco🎯💻
 
 **Programação inicial Python** 
 
